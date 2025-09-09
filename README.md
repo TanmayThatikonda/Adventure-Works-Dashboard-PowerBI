@@ -4,13 +4,13 @@
 
 ## Recommended Structure and Order
 
-### 1. Project Title / Headline
+### 1. Project Title
 **AdventureWorks Business Insights Dashboard**  
 An interactive Power BI report designed to monitor key performance metrics across sales, customers, products, and regions for strategic decision-making.
 
 ---
 
-### 2. Short Description / Purpose
+### 2. Short Description
 This dashboard provides a unified view of AdventureWorks’ business performance, enabling management to track KPIs such as revenue, profit, and returns, compare regional performance, analyze product-level trends, and identify high-value customers.
 
 ---
@@ -88,8 +88,8 @@ To deliver an interactive, visual reporting tool that:
 
 ---
 
-### 6. Screenshots / Demos
-Preview images (place your screenshots in an `images/` folder):
+### 6. Screenshots
+
 
 ![Dashboard Screenshot](images/dashboard.png)  
 *Alt: Overview of the main dashboard page showing KPIs and trend tiles.*
@@ -114,7 +114,7 @@ Preview images (place your screenshots in an `images/` folder):
 
 ---
 
-### 8. Future improvements (optional)
+### 8. Future improvements
 - Connect the model to a live data source (DirectQuery) for real-time updates.  
 - Add predictive analytics using time-series forecasting or Azure ML integration.  
 - Implement row-level security (RLS) for role-based dashboard access.  
